@@ -9,7 +9,8 @@ Compte la dessus.
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
 
 ## Comment contribuer ?
-
+Ajout sur feature
+ajout staged puis remodification pour commit apres stash pop
 
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
